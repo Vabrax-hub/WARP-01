@@ -47,11 +47,11 @@
 // Console.WriteLine($"{krysztal} Krysztalów");
 // Console.WriteLine($"{ziola} Ziół");
 
-Console.WriteLine("Podaj liczbe sekund:");
-int sekundy = int.Parse(Console.ReadLine()!);
-int min = (sekundy/60);
-int sek = (sekundy%60);
-Console.WriteLine($"Twoj czas to: {min} minut i {sek} sekund");
+// Console.WriteLine("Podaj liczbe sekund:");
+// int sekundy = int.Parse(Console.ReadLine()!);
+// int min = (sekundy/60);
+// int sek = (sekundy%60);
+// Console.WriteLine($"Twoj czas to: {min} minut i {sek} sekund");
 
 
 
