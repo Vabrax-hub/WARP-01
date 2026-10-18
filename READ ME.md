@@ -8,4 +8,4 @@ dotnet run
 \`\`\`
 
 ## Kontakt
-Patryk Piescikowski
+Patryk Piescikowski bzdury
