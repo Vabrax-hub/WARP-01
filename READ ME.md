@@ -6,3 +6,6 @@ To jest tekts READ ME
 \`\`\`bash
 dotnet run
 \`\`\`
+
+## Kontakt
+Patryk Piescikowski
