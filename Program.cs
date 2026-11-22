@@ -48,7 +48,7 @@
 // Console.WriteLine($"{ziola} Ziół");
 
 Console.WriteLine("Podaj liczbe sekund:");
-int sekundy = int.Parse(Console.ReadLine()!);
+int sekundy = 126;
 int min = (sekundy/60);
 int sek = (sekundy%60);
 Console.WriteLine($"Twoj czas to: {min} minut i {sek} sekund");
