@@ -60,3 +60,4 @@ Console.WriteLine($"- Ma miejsce w plecaku: {wolneMiejsce}");
 Console.WriteLine($"- Gotowy do wyprawy: {gotowy}");
 Console.WriteLine($"- Wymaga leczenia: {leczenie}");
 Console.WriteLine("========================================");
+sdsadasdsadasd
